@@ -23,5 +23,10 @@ namespace GroupTestProject
         {
             return num1 - num2;
         }
+
+        static int multipler(int num1, int num2)
+        {
+            return num1 * num2;
+        }
     }
 }
